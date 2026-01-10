@@ -4,8 +4,8 @@ import (
 	"sort"
 	"testing"
 
-	"github.com/VincentBrodin/suddig/configs"
-	"github.com/VincentBrodin/suddig/matcher"
+	"github.com/vincbro/suddig/configs"
+	"github.com/vincbro/suddig/matcher"
 )
 
 func TestParalellelMatcher(t *testing.T) {

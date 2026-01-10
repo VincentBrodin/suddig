@@ -3,7 +3,7 @@ package distance_test
 import (
 	"testing"
 
-	"github.com/VincentBrodin/suddig/distance"
+	"github.com/vincbro/suddig/distance"
 )
 
 func TestDamerauLevenshteinTransposition(t *testing.T) {

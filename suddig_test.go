@@ -3,7 +3,7 @@ package suddig_test
 import (
 	"testing"
 
-	"github.com/VincentBrodin/suddig"
+	"github.com/vincbro/suddig"
 )
 
 func TestSameLength(t *testing.T) {

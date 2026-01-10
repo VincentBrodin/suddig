@@ -1,8 +1,8 @@
 package suddig
 
 import (
-	"github.com/VincentBrodin/suddig/configs"
-	"github.com/VincentBrodin/suddig/matcher"
+	"github.com/vincbro/suddig/configs"
+	"github.com/vincbro/suddig/matcher"
 )
 
 // Match computes a normalized similarity score between two strings.

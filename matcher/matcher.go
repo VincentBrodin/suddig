@@ -1,7 +1,7 @@
 package matcher
 
 import (
-	"github.com/VincentBrodin/suddig/configs"
+	"github.com/vincbro/suddig/configs"
 )
 
 type Matcher struct {

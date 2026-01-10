@@ -19,7 +19,7 @@ A fast, flexible, and modular fuzzy finder library for Go. Built for both quick,
 ## Installation
 
 ```bash
-go get github.com/VincentBrodin/suddig
+go get github.com/vincbro/suddig
 ```
 
 ---
@@ -33,7 +33,7 @@ import (
 	"fmt"
 	"os"
 
-	"github.com/VincentBrodin/suddig"
+	"github.com/vincbro/suddig"
 )
 
 func main() {
@@ -56,15 +56,3 @@ func main() {
 }
 ```
 
----
-
-## Goals
-
-The goal is to support as many different distance algorithms,
-and give the tools needed for both simple and compelx usecase.
-
----
-
-## Contribution
-
-Please add any score, distance or configs you feel are missing, and submit a PR.

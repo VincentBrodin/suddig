@@ -3,7 +3,7 @@ package score_test
 import (
 	"testing"
 
-	"github.com/VincentBrodin/suddig/score"
+	"github.com/vincbro/suddig/score"
 )
 
 func TestQuadraticZero(t *testing.T) {

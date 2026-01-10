@@ -3,8 +3,8 @@ package configs
 import (
 	"strings"
 
-	"github.com/VincentBrodin/suddig/distance"
-	"github.com/VincentBrodin/suddig/score"
+	"github.com/vincbro/suddig/distance"
+	"github.com/vincbro/suddig/score"
 )
 
 func Defualt() Config {
